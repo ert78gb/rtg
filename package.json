@@ -1,5 +1,5 @@
 {
-  "name": "@ert78gb/rtg",
+  "name": "rtg",
   "version": "1.0.0",
   "description": "random generate token use promise",
   "main": "src/index.js",
