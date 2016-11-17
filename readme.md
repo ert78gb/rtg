@@ -7,7 +7,7 @@ random token in promise style.
 
 
 ```
-$ npm install --save @ert78gb/rtg
+$ npm install --save rtg
 ```
 
 ```javascript
