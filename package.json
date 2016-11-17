@@ -1,6 +1,6 @@
 {
   "name": "rtg",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "random generate token use promise",
   "main": "src/index.js",
   "scripts": {
@@ -16,5 +16,9 @@
   "dependencies": {
     "bluebird": "^3.4.6",
     "random-token-generator": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ert78gb/rtg.git"
   }
 }
